@@ -1,6 +1,6 @@
-# ATM
+# ATM 🔥👨🏻‍💻
 
-Ssed OOP'S concept of c++ to create a basic functional ATM.
+Used OOP'S concept of c++ to create a basic functional ATM 📟
 
 
 
